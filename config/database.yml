@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  database: polling_app
+  host: localhost
+  username: appacademy
